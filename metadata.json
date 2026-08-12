@@ -1,0 +1,6 @@
+{
+  "name": "Ahilya Surface Lab",
+  "description": "Premium stone surface manufacturing and fabrication solutions for luxury architecture and interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
